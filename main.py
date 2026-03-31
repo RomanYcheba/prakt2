@@ -1,4 +1,4 @@
-print("Добро пожаловать в калькулятор!")
+print("Калькулятор 1.0")
 def add(a, b):
     return a + b
 if __name__ == "__main__":
